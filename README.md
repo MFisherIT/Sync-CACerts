@@ -18,5 +18,7 @@ Sync-CACerts does the following:
   + with matching local certificate
 + [BladeFireLight's Get-IssuedCertificate function][1]
 
+I use PRTG to monitor the helath of this script.
+
   [1]: https://www.powershellgallery.com/packages/PKITools/1.6/Content/Get-IssuedCertificates.ps1 "PKITools 1.6"
   [2]: https://support.microsoft.com/en-us/topic/kb5014754-certificate-based-authentication-changes-on-windows-domain-controllers-ad2c23b0-15d8-4340-a468-4d4f3b188f16 "KB5014754: Certificate-based authentication changes on Windows domain controllers"
