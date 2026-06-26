@@ -20,5 +20,8 @@ Sync-CACerts does the following:
 
 I use PRTG to monitor the helath of this script.
 
+# Vadims Podāns
+I don't know exactly what or where, but I'm sure I used knowledge or scripting from Vadims Podāns (of PKI Solutions). All of my Windows PKI setup and maintenance relies (at least in part) of what I learned form Vadims.
+
   [1]: https://www.powershellgallery.com/packages/PKITools/1.6/Content/Get-IssuedCertificates.ps1 "PKITools 1.6"
   [2]: https://support.microsoft.com/en-us/topic/kb5014754-certificate-based-authentication-changes-on-windows-domain-controllers-ad2c23b0-15d8-4340-a468-4d4f3b188f16 "KB5014754: Certificate-based authentication changes on Windows domain controllers"
